@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395441571227",
+    "firebase_url": "https://crmbabu-d358f.firebaseio.com",
+    "project_id": "crmbabu-d358f",
+    "storage_bucket": "crmbabu-d358f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395441571227:android:2381277ba819aba3aa8d3e",
+        "android_client_info": {
+          "package_name": "com.crmbabu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395441571227-osi4achfep411oj7nrqbe926mfa7mo3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYXj8jFa324z2R27FWeBUQnhjjFbeZsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395441571227-osi4achfep411oj7nrqbe926mfa7mo3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
